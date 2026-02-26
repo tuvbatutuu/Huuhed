@@ -1,0 +1,38 @@
+# 🧠 BrainPlay Kids - Хүүхдэд
+
+An interactive educational platform for kids to learn Mongolian language through games, lessons, and quizzes.
+
+## Features ✨
+
+- **👤 Avatar Selection** - Choose your favorite character
+- **📖 Lessons** - Learn basic Mongolian words, numbers, and colors
+- **❓ Quiz** - Test your knowledge with True/False questions
+- **🎮 Memory Game** - Improve your memory with matching games
+- **⭐ Score System** - Earn points as you progress
+
+## How to Use 🚀
+
+1. Open `index.html` in your web browser
+2. Select your avatar character
+3. Choose from:
+   - 📖 **Lessons** - Learn new content
+   - ❓ **Quiz** - Answer questions to earn points
+   - 🎮 **Games** - Play memory and other games
+
+## Technologies Used 🛠️
+
+- HTML5
+- CSS3 (Gradients, Flexbox, Grid)
+- Vanilla JavaScript
+
+## Features in Development 🔄
+
+- [ ] Math Game
+- [ ] Word Matching Game
+- [ ] More Mongolian lessons
+- [ ] Leaderboard system
+- [ ] User profile saving
+
+## License 📄
+
+MIT License - Created with ❤️ for learning
